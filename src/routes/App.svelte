@@ -4,9 +4,8 @@
   import IndustryOverview from './IndustryOverview.svelte';
   import JoystickGrid from './JoystickGrid.svelte';
   import GeographicSection from './GeographicSection.svelte';
-  import TimelineSection from './TimelineSection.svelte';
   import ChartSection from './ChartSection.svelte';
-  import NarrativeSection from './NarrativeSection.svelte';
+  import TimelineSection from './TimelineSection.svelte';
   import ConclusionSection from './ConclusionSection.svelte';
   import Footer from './Footer.svelte';
 </script>
