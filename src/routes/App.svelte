@@ -1,6 +1,7 @@
 <script>
   import Hero from './Hero.svelte';
   import Explanation from './Explanation.svelte';
+<<<<<<< HEAD
   import IndustryOverview from './IndustryOverview.svelte';
   import JoystickGrid from './JoystickGrid.svelte';
   import GeographicSection from './GeographicSection.svelte';
@@ -8,18 +9,24 @@
   import TimelineSection from './TimelineSection.svelte';
   import ConclusionSection from './ConclusionSection.svelte';
   import Footer from './Footer.svelte';
+=======
+  import JoystickGrid from './JoystickGrid.svelte';
+>>>>>>> 22ad4a5ef504e97b9a4ae2fd83d73c3b0a631d17
 </script>
 
 <main class="min-h-screen bg-gray-900">
   <Hero />
   <Explanation />
   <JoystickGrid />
+<<<<<<< HEAD
   <IndustryOverview />
   <GeographicSection />
   <TimelineSection />
   <ChartSection />
   <ConclusionSection />
   <Footer />
+=======
+>>>>>>> 22ad4a5ef504e97b9a4ae2fd83d73c3b0a631d17
 </main>
 
 <style>

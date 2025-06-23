@@ -45,4 +45,18 @@ h1 {
   margin: 0 auto;
   padding: 2rem;
   /* text-align: center; */
+<<<<<<< HEAD
+=======
+}
+
+@keyframes pulse {
+  0%, 100% { 
+    opacity: 1; 
+    transform: scale(1);
+  }
+  50% { 
+    opacity: 0.7; 
+    transform: scale(0.9);
+  }
+>>>>>>> 22ad4a5ef504e97b9a4ae2fd83d73c3b0a631d17
 }
